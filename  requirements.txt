@@ -1,0 +1,7 @@
+streamlit
+requests
+pandas
+plotly
+SpeechRecognition
+gTTS
+pillow
